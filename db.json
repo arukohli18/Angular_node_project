@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "EmpId": 1,
+      "EmpName": "Aradhya",
+      "EmpEmail": "aradhyasingh@gmail.com",
+      "EmpAge": 23,
+      "id": 1
+    },
+    {
+      "EmpId": 3,
+      "EmpName": "Rahane",
+      "EmpEmail": "rahane@gmail.com",
+      "EmpAge": 34,
+      "id": 3
+    },
+    {
+      "EmpId": 4,
+      "EmpName": "Virat",
+      "EmpEmail": "kohli@gmail.com",
+      "EmpAge": 35,
+      "id": 4
+    }
+  ]
+}
